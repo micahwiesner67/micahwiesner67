@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on fraud prediction with the Veteran Affairs and epidemiologic modeling with the CDC Center for Forecasting Analytics
 - 💬 Ask me about neural networks, rare-event modeling, fraud prediction, and modeling in general
-- Passions: ⛷️ 🏕️ 🎷
+- Passions: ⛷️ 🏕️ 🎸
 
 ### Bio
 - 🏡 Rochester, NY
