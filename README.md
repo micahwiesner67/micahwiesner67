@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**micahwiesner67/micahwiesner67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on fraud prediction with the Veteran Affairs and epidemiologic modeling with the CDC Center for Forecasting Analytics
+- 💬 Ask me about neural networks, rare-event modeling, fraud prediction, and modeling in general
+- Passions: ⛷️ 🏕️ 🎷
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Bio
+- 🏡 Rochester, NY
+- 🏢 2022- : Sr. Data Scientist at **Booz Allen Hamilton**
+- 🏢 2020-2021: Data Analyst for Fraud Prediction at **Riskified**
+- 📜 2018-2020: MSc in Geosciences & Data Science at **Syracuse University**
+- ⚙️ Daily tools: R, Python, SQL
