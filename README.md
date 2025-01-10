@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on fraud prediction with the Veteran Affairs and epidemiologic modeling with the CDC Center for Forecasting Analytics
-- 💬 Ask me about neural networks, rare-event modeling, fraud prediction, and modeling in general
+- I'm a full-stack data scientist. I've worked in data analytics, as a data scientist, and as a data engineer / MLOps Engineer
+- 🔭 I’m currently working on epidemiologic modeling with the CDC Center for Forecasting Analytics and have extensive experienc in fraud prediction in the public and private sector.
+- 💬 Ask me about neural networks, rare-event modeling, MLOps, fraud prediction, and modeling in general
 - Passions: ⛷️ 🏕️ 🎸
 
 ### Bio
