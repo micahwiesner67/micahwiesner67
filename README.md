@@ -10,4 +10,4 @@
 - 🏢 2022- : Sr. Data Scientist at **Booz Allen Hamilton**
 - 🏢 2020-2021: Data Analyst for Fraud Prediction at **Riskified**
 - 📜 2018-2020: MSc in Geosciences & Data Science at **Syracuse University**
-- ⚙️ Daily tools: R, Python, SQL
+- ⚙️ Daily tools: R, Python, SQL, GH Actions, Bash
