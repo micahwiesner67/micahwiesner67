@@ -7,7 +7,8 @@
 
 ### Bio
 - 🏡 Rochester, NY
-- 🏢 2022- : Sr. Data Scientist at **Booz Allen Hamilton**
+- 🏢 2025- : Advanced Data Science Researcher at **Booz Allen Hamilton**
+- 🏢 2022-2025 : Senior Data Scientist at **Booz Allen Hamilton**
 - 🏢 2020-2021: Data Analyst for Fraud Prediction at **Riskified**
 - 📜 2018-2020: MSc in Geosciences & Data Science at **Syracuse University**
 - ⚙️ Daily tools: R, Python, SQL, GH Actions, Bash
